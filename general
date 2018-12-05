@@ -4,7 +4,8 @@ form.form input.text, form.form textarea.standard, form.form select, form.form i
    border:solid 1px #C5C4CC;
 /*   font-family: 'Open Sans', Helvetica, sans-serif; */
    font-size:16px;
-   color:#4A4A4C;
+/*   color:#4A4A4C; */
+   color:#ff0000;
    -moz-border-radius:0px;
    -webkit-border-radius:0px;
    border-radius:0px;
