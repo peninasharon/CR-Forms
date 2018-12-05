@@ -4,8 +4,7 @@ form.form input.text, form.form textarea.standard, form.form select, form.form i
    border:solid 1px #C5C4CC;
 /*   font-family: 'Open Sans', Helvetica, sans-serif; */
    font-size:16px;
-/*   color:#4A4A4C; */
-   color:#ff0000;
+   color:#4A4A4C;
    -moz-border-radius:0px;
    -webkit-border-radius:0px;
    border-radius:0px;
@@ -24,9 +23,9 @@ form.form p label {
 form.form p.submit input {
    background-color:#0085C0;
    border:solid 0px #0085C0;
-   font-size:14px;
+   font-size:16px;
    color:#FFFFFF;
-   font-weight:normal;
+   font-weight:400;
    padding-top:10px;
    padding-bottom:10px;
    padding-right:25px;
@@ -42,7 +41,7 @@ form.form p.submit {
 }
 form.form p.required label, form.form span.required label {
     background:none !important; 
-    font-weight:normal;
+    font-weight:300;
 }
 form.form p.required label.field-label:after {
     content:"*"; 
@@ -55,9 +54,7 @@ margin-left:0;}
 form.form p.submit {
 margin-left:6px;}
 
- </style><!DOCTYPE html>
-<html>
-	<head>
+ </style>
 		<base href="http://go.cobaltrobotics.com" >
 		<meta charset="utf-8"/>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
@@ -77,13 +74,8 @@ if(!window['pi']) { window['pi'] = {}; } pi = window['pi']; if(!pi['tracker']) {
 	if(window.attachEvent) { window.attachEvent('onload', async_load); }
 	else { window.addEventListener('load', async_load, false); }
 })();
-</script></head>
-	<body>
-		<form accept-charset="UTF-8" method="post" action="http://go.cobaltrobotics.com/l/647533/2018-12-04/h4tx" class="form" id="pardot-form">
-
-<style type="text/css">
-form.form p label { color: #4a4a4c; font-size: 14pt; font-family: Helvetica, Arial, sans-serif; float: left; display: inline; }
-</style>
+</script>
+<form accept-charset="UTF-8" method="post" action="http://go.cobaltrobotics.com/l/647533/2018-12-04/h4tx" class="form" id="pardot-form">
 
 
 
